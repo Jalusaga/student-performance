@@ -5,7 +5,7 @@ This project explores how well we can predict a student’s final grade (G3) in 
 
 ## 🚀 Project Overview
 
-We load the UCI “Student Performance” dataset, preprocess categorical features, then train a Linear Regression model to predict the final grade (`G3`) based on 21 input features (like study time, family support, past failures, etc.) plus the two ongoing period grades (`G1`, `G2`).  
+We load the UCI “Student Performance” dataset, preprocess categorical features, then train a Linear Regression model to predict the final grade (`G3`) based on 17 input features (like study time, family support, past failures, etc.) plus the two ongoing period grades (`G1`, `G2`).  
 
 The goal is to see how close our model’s predictions come to the real scores and evaluate with MSE, MAE, and R².
 
@@ -29,11 +29,11 @@ The goal is to see how close our model’s predictions come to the real scores a
 
 ## 📈 Results
 
-  - MSE: 3.27
-  - MAE: 1.19
-  - R²: 0.82
+   - MSE:  4.43
+   - MAE:  1.36
+   - R²:   0.81
 
-Our linear model explains about 82% of the variance in final grades—pretty solid for such a simple approach!  
+Our linear model explains about 81% of the variance in final grades—pretty solid for such a simple approach!  
 
 ## 🤝 Credits & License
 
