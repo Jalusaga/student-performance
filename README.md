@@ -1,5 +1,6 @@
 # student-performance
-> A simple linear regression model for predicting student performace based on multiple variables
+> A simple linear regression model for predicting student performace based on multiple variables.
+
 This project explores how well we can predict a student’s final grade (G3) in Math (or Portuguese) classes using demographic, social and school-related attributes. We build a simple Linear Regression model and take a look at how accurately it can forecast end-of-term performance.
 
 ## 🚀 Project Overview
