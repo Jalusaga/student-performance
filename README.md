@@ -20,8 +20,8 @@ The goal is to see how close our model’s predictions come to the real scores a
 
 1. **Clone** this repo:  
    ```bash
-   git clone https://github.com/YourUsername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Jalusaga/student-performance.git
+   cd student-performance
 
 2. **Install** dependencies
    ```bash
